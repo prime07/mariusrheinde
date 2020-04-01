@@ -1831,8 +1831,8 @@ input, select, textarea {
 				-webkit-transition: opacity .25s ease-in-out;
 				-ms-transition: opacity .25s ease-in-out;
 				transition: opacity .25s ease-in-out;
-				width: 8em;
-				margin-left: -4em;
+				width: 6em;
+				margin-left: -3em;
 			}
 
 				#nav a span:after {
